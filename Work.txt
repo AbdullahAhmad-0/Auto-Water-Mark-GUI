@@ -1,0 +1,14 @@
+image
+watermark[text, pic]
+if text:
+	text
+	font
+	size
+	color
+if pic:
+	pic
+	size = width, height
+	alpha
+location[left,right,up,down,center,leftdown,leftup,rightdown,rightup]
+output
+processing(progressbar) apply(button)
