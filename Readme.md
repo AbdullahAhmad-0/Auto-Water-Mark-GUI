@@ -1,6 +1,6 @@
 # Auto Watermark Tool with GUI
 
-![demo\screenshot.png](demo\screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/2f2d1c4b-295b-4506-bccb-dfd1313f3b3b)
 
 This is a Python-based graphical user interface (GUI) application for adding watermarks to images, built with the Tkinter library. The tool is simple, intuitive, and supports both text-based and image-based watermarks.
 
@@ -72,10 +72,7 @@ A prebuilt executable is available for Windows users:
 5. **Save the Output**:
    - Specify the output folder to save the watermarked images.
 
-<video controls>
-  <source src="demo\Demo.mkv" type="video/mkv">
-Your browser does not support the video tag.
-</video>
+[Download Demo Video](https://github.com/AbdullahAhmad-0/Auto-Water-Mark-GUI/blob/master/demo/Demo.mkv)
 
 
 ## File Structure
