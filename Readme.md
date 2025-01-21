@@ -1,7 +1,8 @@
 # Auto Watermark Tool with GUI
 
-![demo\screenshot.png](demo\screenshot.png)
 ![screenshot](https://github.com/user-attachments/assets/2f2d1c4b-295b-4506-bccb-dfd1313f3b3b)
+
+![demo\screenshot.png](demo\screenshot.png)
 
 This is a Python-based graphical user interface (GUI) application for adding watermarks to images, built with the Tkinter library. The tool is simple, intuitive, and supports both text-based and image-based watermarks.
 
