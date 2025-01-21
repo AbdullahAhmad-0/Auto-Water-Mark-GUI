@@ -57,8 +57,7 @@ This is a Python-based graphical user interface (GUI) application for adding wat
 ### Prebuilt Executable
 
 A prebuilt executable is available for Windows users:
-- Download the installer from the `dist` folder: [`WM-1.0-win64.msi`](https://github.com/AbdullahAhmad-0/Auto-Water-Mark-GUI/releases/latest).
-- Download the installer from releases: [Download](https://github.com/AbdullahAhmad-0/Auto-Water-Mark-GUI/releases/latest).
+- Download the installer: [Download](https://github.com/AbdullahAhmad-0/Auto-Water-Mark-GUI/releases/latest).
 
 ## How to Use
 
